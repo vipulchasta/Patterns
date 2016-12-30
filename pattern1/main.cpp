@@ -1,4 +1,5 @@
 /*
+When Input Char is 'E'
 E D C B A B C D E
   D C B A B C D
     C B A B C
